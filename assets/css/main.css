@@ -1201,7 +1201,7 @@ input, select, textarea {
 			left: calc(50% - 1px);
 			width: 1px;
 			height: 100%;
-			background: #00ff26;
+			background: #f6f6f6;
 		}
 
 		#header nav.use-middle ul li.is-middle {
@@ -1298,7 +1298,7 @@ input, select, textarea {
 
 					#header nav ul li {
 						border-left: 0;
-						border-top: solid 1px #00ff26;
+						border-top: solid 1px #ffffff;
 					}
 
 						#header nav ul li:first-child {
