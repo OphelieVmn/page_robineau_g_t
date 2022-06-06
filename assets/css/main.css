@@ -608,7 +608,10 @@ input, select, textarea {
 	width: 50;
   }
   
-
+  video{
+	  width: 100%;
+	  height: auto;
+  }
   
   
 	.image {
